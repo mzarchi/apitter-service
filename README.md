@@ -1,13 +1,13 @@
 # Apitter Service
 
 Base url: https://apitter.ir <br>
-Free access token (v1-limit): <span style="color:rgb(4, 186, 165)">4e799b16face1a59c264d8de2e78a0e12b23a876</span>
+Free access token (v1-limit): ```4e799b16face1a59c264d8de2e78a0e12b23a876```
 
 ## API Methods (v1.0)
 
 ### User:
-* <b>/api/v1/ <span style="color:rgb(4, 186, 165)">ACCESS-TOKEN</span> /user/ <span style="color:rgb(76, 144, 168)">USER-ID</span> </b>(GET)<br>
-* <b>/api/v1/ <span style="color:rgb(4, 186, 165)">ACCESS-TOKEN</span> /user/ <span style="color:rgb(76, 144, 168)">SCREEN-NAME</span> </b>(GET)<br>
+* <b>/api/v1/ ```ACCESS-TOKEN``` /user/ ```USER-ID``` </b>(GET)
+* <b>/api/v1/ ```ACCESS-TOKEN``` /user/ ```SCREEN-NAME``` </b>(GET)<br>
 Each user in Twitter has a user id <i>(for example the user id of [jack](https://twitter.com/jack) in <b>12</b>)</i> that is not determined and chosen by the user, and this ID cannot be edited. And by using this method and sending this value, view the details of the user's account. You can also do the same with screen name, which is <b>@username</b>
 <br><br>
 API output: <br><sub>https://apitter.ir/api/v1/4e799b16face1a59c264d8de2e78a0e12b23a876/user/mhzarchi</sub><br>
