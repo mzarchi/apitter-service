@@ -19,7 +19,7 @@ API output: [/result/user.json](./result/user.json) <br><br><br>
 
 ## Tweet & Replies:
 
-* <b>/api/v1/ ```ACCESS-TOKEN``` /user/ ```USER-ID``` /replies/ </b>(GET)
+* <b>/api/v1/ ```ACCESS-TOKEN``` /user/ ```SCREEN-NAME``` /replies/ </b>(GET)
 <br><br>
 API output: [/result/replies.json](./result/replies.json)
 <br><br><br>
