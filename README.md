@@ -1,7 +1,7 @@
 # Apitter Service
 
 Base url: https://apitter.ir/<br>
-Sample: http[s]://apitter.ir/api/v1/ACCESS-TOKEN/method/params/
+Sample: http[s]://apitter.ir/api/v1/ ACCESS-TOKEN /method/params/
 <br>
 Free Access Token (v1-limit): `4e799b16face1a59c264d8de2e78a0e12b23a876`
 
